@@ -1,0 +1,8 @@
+{
+  "name": "Remix SYNTHIC - Next-Gen Creative \u0026 Social Media Agency",
+  "description": "Next-gen creative and social media agency founded by Arpit Tiwari \u0026 Sanskar Tiwari. SMM, dynamic video shoots, Meta ads, and AI-powered cinematic content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
